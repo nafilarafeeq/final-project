@@ -1,1 +1,2 @@
-# final-project
+# final-project 
+This project aims to enhance the predictive accuracy of the ASPR Treatments Locator dataset by employing machine learning algorithms and rigorous exploratory data analysis (EDA). Through EDA, crucial data quality issues, including missing values, duplicates, outliers, and skewness, were identified and addressed through preprocessing techniques. These steps are essential for improving the performance and reliability of predictive models. By leveraging cleaned data, feature engineering, and advanced machine learning algorithms, this project strives to develop robust models capable of accurately predicting treatment center locations, ultimately contributing to optimized resource allocation and improved access to critical treatments.
